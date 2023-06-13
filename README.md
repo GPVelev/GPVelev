@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in Bulgarian Army as Vehicle Mechanic
+- 🌱 I’m currently learning Python Advanced in SoftUni
+- 🤔 I’m currenltly learning some security skills on TryHackMe
+
+<script src="https://tryhackme.com/badge/1968274"></script>
+
+
 <!--
 **GPVelev/GPVelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
