@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python Advanced in SoftUni
 - 🤔 I’m currenltly learning some security skills on TryHackMe
 
-<script src="https://tryhackme.com/badge/1968274"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Rattus7734.png" alt="TryHackMe">
 
 
 <!--
