@@ -5,7 +5,7 @@
 - 🤔 I’m currenltly learning some security skills on TryHackMe
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Rattus7734.png" alt="TryHackMe">
-<script src="https://tryhackme.com/badge/1968274"></script>
+
 
 <!--
 **GPVelev/GPVelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
