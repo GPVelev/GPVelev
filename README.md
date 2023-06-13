@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working in Bulgarian Army as Vehicle Mechanic
 - 🌱 I’m currently learning Python Advanced in SoftUni
-- 🤔 I’m currenltly learning some security skills on TryHackMe
+- ✨ I’m currenltly learning some security skills on TryHackMe
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Rattus7734.png" alt="TryHackMe">
 
